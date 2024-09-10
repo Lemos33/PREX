@@ -1,0 +1,3 @@
+enum StatusProjeto{
+    ATIVO,CONCLUIDO,APROVADO,REPROVADO
+}
